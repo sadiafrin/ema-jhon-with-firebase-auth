@@ -31,7 +31,7 @@
 }
 
 .orange-text{
-    color: #FF9900;
+    color: #c5e2f3;
 }
 
 /* delete button styles */
@@ -39,7 +39,7 @@
     height: 55px;
     width: 55px;
     border-radius: 50%;
-    background-color: rgba(235, 87, 87, 0.3);
+    background-color: rgba(187, 198, 211, 0.3);
     display: flex;
     justify-content: center;
     align-items: center;

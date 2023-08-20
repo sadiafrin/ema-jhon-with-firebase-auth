@@ -4,6 +4,7 @@
     border: 1px solid #95A0A7;
     border-radius: 8px;
     position: relative;
+    
 }
 
 .product img {
@@ -22,7 +23,7 @@
     font-size: 21px;
     line-height: 25px;
     letter-spacing: 0.0015em;
-    color: #0E161A;
+    color: #dee6eb;
 }
 .product-info{
     margin-left: 14px;
@@ -32,12 +33,13 @@
 }
 .btn-cart{
     width: 100%;
-    background: #FFE0B3;
-    border: 1px solid #95A0A7;
+    background: #afd5ee;
+    border: 1px solid #3885b4;
     border-radius: 0px 0px 8px 8px;
     position: absolute;
     bottom: 0;
+    color:black;
 }
 .btn-cart:hover{
-    background-color: orange;
+    background-color: rgb(115, 188, 219);
 }
