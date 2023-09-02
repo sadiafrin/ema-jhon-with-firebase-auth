@@ -16,3 +16,8 @@ nav.header a{
 nav.header a:hover{
     color: orange;
 }
+h2{
+    color: #eebcbc;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
